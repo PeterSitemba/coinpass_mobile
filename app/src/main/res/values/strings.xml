@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Coinpass Mobile</string>
+    <string name="logo">Coinpass logo</string>
+
+    <!--region sign in screen strings-->
+    <string name="login_header">Sign in to coinpass</string>
+    <string name="email_header">Email</string>
+    <string name="password_header">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hint_email_address">Email address</string>
+    <string name="hint_password">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">sign up</string>
+    <string name="invalid_input">Invalid email or password. Try \'Forgot Password\' if you\'re having trouble signing in.</string>
+
+
+
+
+</resources>
